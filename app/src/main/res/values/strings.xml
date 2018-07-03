@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTodoUpgrade</string>
+    <string name="calender">予定管理</string>
+    <string name="todo">やること</string>
+    <string name="growth">成長確認</string>
+    <string name="technology">技術確認</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+</resources>
